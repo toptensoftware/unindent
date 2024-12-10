@@ -1,0 +1,22 @@
+{
+  "name": "@toptensoftware/unindent",
+  "version": "0.0.1",
+  "description": "Unindent a string by removing all common leading whitespace",
+  "main": "unindent.js",
+  "type": "module",
+  "scripts": {},
+  "author": "Topten Software",
+  "contributors": [
+    {
+      "name": "Brad Robinson",
+      "email": "contact@toptensoftware.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toptensoftware/unindent.git"
+  },
+  "license": "Apache-2.0",
+  "dependencies": {
+  }
+}
